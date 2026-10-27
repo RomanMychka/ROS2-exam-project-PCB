@@ -127,7 +127,7 @@
 			(outputdirectory "")
 		)
 	)
-	(footprint "BMS ROS2 project:Untitled"
+	(footprint "BMS ROS2 project:BMS ROS2 project"
 		(layer "F.Cu")
 		(uuid "027b93f6-c1f1-43fb-b545-e2afff4fe80f")
 		(at 150.82 50.89 180)
@@ -6631,7 +6631,7 @@
 			)
 		)
 	)
-	(footprint "BMS ROS2 project:Untitled"
+	(footprint "BMS ROS2 project:Buck convertor"
 		(layer "F.Cu")
 		(uuid "f0a07661-4382-4bfe-9c8c-db6dec918e9f")
 		(at 205.82 75.62 -90)

@@ -4399,8 +4399,16 @@
 		(uuid "9a70c233-1f0b-41c2-972d-07b3225331c1")
 	)
 	(no_connect
-		(at 113.03 63.5)
-		(uuid "bc3f5625-7611-45f2-a779-ce40287b768a")
+		(at 179.07 93.98)
+		(uuid "ae440770-b1e3-4216-bdfd-f3156d23c3ee")
+	)
+	(no_connect
+		(at 179.07 99.06)
+		(uuid "babafed8-08a6-42d1-ace5-f6e95e19e6ad")
+	)
+	(no_connect
+		(at 179.07 96.52)
+		(uuid "d6eb66e1-bd23-4b36-a217-643b0f0fda66")
 	)
 	(no_connect
 		(at 179.07 53.34)
@@ -4478,6 +4486,26 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 73.66) (xy 64.77 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b0ade39-a2c8-4866-9336-4d09d219766f")
+	)
+	(wire
+		(pts
+			(xy 31.75 45.72) (xy 36.83 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f44c034-53b8-4c75-bbfa-8c19ca329143")
+	)
+	(wire
+		(pts
 			(xy 344.17 200.66) (xy 344.17 208.28)
 		)
 		(stroke
@@ -4545,6 +4573,16 @@
 			(type default)
 		)
 		(uuid "172ec252-2b61-4f90-b797-f46765b584e1")
+	)
+	(wire
+		(pts
+			(xy 33.02 68.58) (xy 33.02 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17fa84c3-a1e8-4f66-9ab4-67942af12f98")
 	)
 	(wire
 		(pts
@@ -4685,16 +4723,6 @@
 			(type default)
 		)
 		(uuid "27cf7f49-1002-4b42-870d-388fdfe6d612")
-	)
-	(wire
-		(pts
-			(xy 199.39 101.6) (xy 200.66 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "285fd41d-5c78-4e30-a7d9-8a42135fdced")
 	)
 	(wire
 		(pts
@@ -4898,6 +4926,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 69.85) (xy 62.23 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40c90773-e808-42e8-961d-bbe1560d8602")
+	)
+	(wire
+		(pts
 			(xy 213.36 203.2) (xy 213.36 210.82)
 		)
 		(stroke
@@ -5008,16 +5046,6 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 93.98) (xy 200.66 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "569dd5c7-7048-47a5-a286-1a03afa91328")
-	)
-	(wire
-		(pts
 			(xy 311.15 200.66) (xy 312.42 200.66)
 		)
 		(stroke
@@ -5078,6 +5106,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 78.74) (xy 180.34 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6059487c-f93b-44ab-b55e-a465c0eb3fa7")
+	)
+	(wire
+		(pts
 			(xy 267.97 95.25) (xy 269.24 95.25)
 		)
 		(stroke
@@ -5095,16 +5133,6 @@
 			(type default)
 		)
 		(uuid "677adcfe-a9f5-46c4-b020-5b60d852250a")
-	)
-	(wire
-		(pts
-			(xy 194.31 99.06) (xy 200.66 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6acbc940-04f5-49e7-9897-984a9c9f5c70")
 	)
 	(wire
 		(pts
@@ -5135,6 +5163,16 @@
 			(type default)
 		)
 		(uuid "72b55706-c55d-4591-924d-5df92ffbb976")
+	)
+	(wire
+		(pts
+			(xy 59.69 39.37) (xy 64.77 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75fbb25a-7618-4f70-bf56-a1e073708236")
 	)
 	(wire
 		(pts
@@ -5328,13 +5366,23 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 106.68) (xy 199.39 101.6)
+			(xy 59.69 46.99) (xy 64.77 46.99)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8fcfb4e6-bd41-4cac-8d2c-defc6f423e4c")
+		(uuid "8e399800-342b-4a16-9427-b69d65f4ed97")
+	)
+	(wire
+		(pts
+			(xy 33.02 83.82) (xy 33.02 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f637e78-a1e4-4934-aa18-c9ed43ef0425")
 	)
 	(wire
 		(pts
@@ -5408,6 +5456,26 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 81.28) (xy 36.83 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "986eaf54-28d8-4ac4-b148-33f56bd5c326")
+	)
+	(wire
+		(pts
+			(xy 31.75 34.29) (xy 31.75 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99e6cc2c-ecaa-4bb8-83fc-fa095c076faa")
+	)
+	(wire
+		(pts
 			(xy 309.88 162.56) (xy 309.88 170.18)
 		)
 		(stroke
@@ -5448,13 +5516,13 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 96.52) (xy 200.66 96.52)
+			(xy 62.23 81.28) (xy 64.77 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a0e963ab-8ac9-4cda-934f-6e0844b7b4a5")
+		(uuid "9f39d984-a5d1-4ae6-99a0-61d7c3cbd76a")
 	)
 	(wire
 		(pts
@@ -5568,6 +5636,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 38.1) (xy 36.83 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad42a17c-3515-4291-988d-0d47e587ae18")
+	)
+	(wire
+		(pts
 			(xy 213.36 154.94) (xy 214.63 154.94)
 		)
 		(stroke
@@ -5575,6 +5653,16 @@
 			(type default)
 		)
 		(uuid "ae393b58-3de8-42a5-9b00-e9e56500402f")
+	)
+	(wire
+		(pts
+			(xy 59.69 49.53) (xy 59.69 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af05dde7-2a33-4061-b92e-c6316c77efc7")
 	)
 	(wire
 		(pts
@@ -5708,6 +5796,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 85.09) (xy 62.23 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb4b6fa7-93f1-4f98-ba30-9a1343b38e57")
+	)
+	(wire
+		(pts
 			(xy 267.97 154.94) (xy 281.94 154.94)
 		)
 		(stroke
@@ -5798,16 +5896,6 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 106.68) (xy 194.31 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c903302b-312f-417d-aeb3-857a9a587649")
-	)
-	(wire
-		(pts
 			(xy 245.11 152.4) (xy 250.19 152.4)
 		)
 		(stroke
@@ -5868,6 +5956,26 @@
 	)
 	(wire
 		(pts
+			(xy 59.69 34.29) (xy 59.69 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce3e076e-70da-4397-80f3-93ad2681bd85")
+	)
+	(wire
+		(pts
+			(xy 111.76 60.96) (xy 113.03 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce477456-856a-4207-93e2-789c2e3267e1")
+	)
+	(wire
+		(pts
 			(xy 245.11 154.94) (xy 267.97 154.94)
 		)
 		(stroke
@@ -5925,6 +6033,16 @@
 			(type default)
 		)
 		(uuid "d5921c7c-9415-4d80-b62b-b9679d18fab3")
+	)
+	(wire
+		(pts
+			(xy 111.76 58.42) (xy 113.03 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d63329fa-dea4-4472-a9b9-b227cf5c4622")
 	)
 	(wire
 		(pts
@@ -6228,6 +6346,16 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 73.66) (xy 36.83 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbe4014c-caa6-414a-9bba-be753ba7b56d")
+	)
+	(wire
+		(pts
 			(xy 213.36 160.02) (xy 213.36 167.64)
 		)
 		(stroke
@@ -6246,6 +6374,16 @@
 		)
 		(uuid "ff4f634a-9f9f-4937-9226-c0361a91685e")
 	)
+	(wire
+		(pts
+			(xy 31.75 49.53) (xy 31.75 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff62432f-7a9e-4e32-b874-f0c1f1f58d16")
+	)
 	(label "M4_AI1_3.3"
 		(at 236.22 92.71 180)
 		(effects
@@ -6256,6 +6394,28 @@
 			(justify right bottom)
 		)
 		(uuid "02b304ee-3c74-4bb8-a7f0-f41a79013ab5")
+	)
+	(label "Encoder_3A"
+		(at 180.34 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 102 55 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "02b9b207-9207-4329-8db8-ed1df9bb07f0")
+	)
+	(label "Encoder_4B"
+		(at 64.77 44.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 53 91 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "0530b4b1-adb7-44bb-838e-f0957a41e4f6")
 	)
 	(label "M4_AI2_3.3"
 		(at 180.34 101.6 0)
@@ -6389,6 +6549,17 @@
 		)
 		(uuid "309986cc-9d09-46ef-8268-128e731f02e7")
 	)
+	(label "PWM_M4"
+		(at 180.34 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 53 91 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "357bb65e-34b5-481a-aec2-183ff3bb1c84")
+	)
 	(label "PWM_M2"
 		(at 111.76 48.26 180)
 		(effects
@@ -6399,6 +6570,17 @@
 			(justify right bottom)
 		)
 		(uuid "393f7ff5-2f4b-4979-be64-cc7ab0f422bf")
+	)
+	(label "Encoder_3B"
+		(at 180.34 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 102 55 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "42a392bd-6c71-4fc1-84b3-b39ff46451f6")
 	)
 	(label "M1_AI1_3.3"
 		(at 236.22 77.47 180)
@@ -6411,17 +6593,6 @@
 		)
 		(uuid "46a48101-e87a-4e59-a1d3-e5705bbf8808")
 	)
-	(label "PWM_M3"
-		(at 180.34 73.66 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 102 55 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "489960d5-254b-4a24-941f-851eb08dc1e2")
-	)
 	(label "PWM_M1"
 		(at 213.36 152.4 180)
 		(effects
@@ -6432,6 +6603,28 @@
 			(justify right bottom)
 		)
 		(uuid "48b7a106-6ec2-42a3-b457-304c4362105c")
+	)
+	(label "Encoder_1B"
+		(at 64.77 76.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 102 115 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "4904295d-7975-4449-b506-4f2b83626a01")
+	)
+	(label "Encoder_1B"
+		(at 113.03 76.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 102 115 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "4ac33560-d7ad-4a8e-a7b1-e52b77954d27")
 	)
 	(label "M2_AI1_3.3"
 		(at 236.22 82.55 180)
@@ -6477,6 +6670,17 @@
 		)
 		(uuid "62b9292c-7363-45ed-9e63-4b35ab3e1f4f")
 	)
+	(label "Encoder_1A"
+		(at 113.03 73.66 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 102 115 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "67eda295-6256-47a6-9fb2-2375c9c2c9de")
+	)
 	(label "M3_AI1"
 		(at 269.24 90.17 0)
 		(effects
@@ -6499,16 +6703,27 @@
 		)
 		(uuid "6e83efb6-446b-461a-9489-c33a49b2a987")
 	)
-	(label "PWM_M4"
-		(at 180.34 76.2 0)
+	(label "Encoder_1A"
+		(at 64.77 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 102 115 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "705dc45f-0819-43de-a78c-938c02448568")
+	)
+	(label "Encoder_4A"
+		(at 111.76 58.42 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 				(color 255 53 91 1)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "746bd617-729e-474e-932b-72c28e4fd891")
+		(uuid "7e8918c5-a3be-49e9-b5b6-d8e8bc9bbe31")
 	)
 	(label "M1_AI2_3.3"
 		(at 180.34 68.58 0)
@@ -6554,6 +6769,17 @@
 		)
 		(uuid "994f069a-bde1-45de-89c7-c0e6b2b9798e")
 	)
+	(label "Encoder_4A"
+		(at 64.77 41.91 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 53 91 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "9d126e98-dcd7-4b34-a837-5d5a1aa82421")
+	)
 	(label "M2_AI1"
 		(at 311.15 160.02 180)
 		(effects
@@ -6576,6 +6802,17 @@
 		)
 		(uuid "a5e2e767-c278-4a62-bf17-6d4ee12c6cdd")
 	)
+	(label "Encoder_4B"
+		(at 111.76 60.96 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 53 91 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "a63849af-63c3-46a9-aee4-66ebccc950b1")
+	)
 	(label "BAT_LVL_OUT"
 		(at 208.28 67.31 0)
 		(effects
@@ -6596,6 +6833,28 @@
 			(justify left bottom)
 		)
 		(uuid "aff94788-5d60-4d31-ae3d-0d6a2c7a6425")
+	)
+	(label "Encoder_2B"
+		(at 36.83 76.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 223 116 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "c2b0b45f-77ab-4cf7-a17f-b3287be255fb")
+	)
+	(label "Encoder_2A"
+		(at 113.03 68.58 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 223 116 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "c3bc4a07-2c6e-4108-ac2b-1d154545acad")
 	)
 	(label "M2_AI2_3.3"
 		(at 180.34 63.5 0)
@@ -6630,6 +6889,39 @@
 		)
 		(uuid "d9ac0c55-17e7-4e51-a18d-cf02612996fa")
 	)
+	(label "Encoder_3A"
+		(at 36.83 40.64 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 102 55 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "dab19457-dd72-4f8b-b31e-683a4da49390")
+	)
+	(label "Encoder_3B"
+		(at 36.83 43.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 102 55 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "df2618d4-6f7d-4fc3-a57d-7d377aa341ff")
+	)
+	(label "Encoder_2B"
+		(at 113.03 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 223 116 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "e1f802b2-c4af-4e31-b129-2060ad49546b")
+	)
 	(label "PWM_M4"
 		(at 214.63 195.58 180)
 		(effects
@@ -6640,6 +6932,28 @@
 			(justify right bottom)
 		)
 		(uuid "e26dc428-bbbf-4fe4-b041-d66beea08ac9")
+	)
+	(label "Encoder_2A"
+		(at 36.83 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 223 116 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "eb9d049a-ff6b-4ce4-9fdb-06efaa9e909d")
+	)
+	(label "PWM_M3"
+		(at 180.34 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 102 55 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "ed1ee241-0586-421b-a02e-971eff47b62e")
 	)
 	(label "M2_AI1_3.3"
 		(at 180.34 66.04 0)
@@ -6857,6 +7171,162 @@
 			(project "ROS2_final_project_PCB"
 				(path "/26be704d-8085-4773-9060-7ddad222b79e"
 					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDD")
+		(at 31.75 49.53 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "02517a6b-4fe8-43b9-996f-cf06bd2bf86a")
+		(property "Reference" "#PWR047"
+			(at 31.75 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDD"
+			(at 31.75 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 31.75 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
+			(at 31.75 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "16a30817-020e-4287-8331-93b1a150c738")
+		)
+		(instances
+			(project "ROS2_final_project_PCB"
+				(path "/26be704d-8085-4773-9060-7ddad222b79e"
+					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 31.75 34.29 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "04a48430-97c3-4908-90c2-b64be12cfa3d")
+		(property "Reference" "#PWR046"
+			(at 31.75 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 31.75 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 31.75 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 31.75 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c2329df9-f27f-436a-b07f-cc775b60fc8a")
+		)
+		(instances
+			(project "ROS2_final_project_PCB"
+				(path "/26be704d-8085-4773-9060-7ddad222b79e"
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -7099,6 +7569,84 @@
 			(project "ROS2_final_project_PCB"
 				(path "/26be704d-8085-4773-9060-7ddad222b79e"
 					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDD")
+		(at 59.69 49.53 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "15eef14c-6c78-4a79-b673-f4a90ec4d464")
+		(property "Reference" "#PWR049"
+			(at 59.69 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDD"
+			(at 59.69 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 59.69 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 59.69 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
+			(at 59.69 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "66f42c33-7a52-4ac8-92ec-d38081ee41dc")
+		)
+		(instances
+			(project "ROS2_final_project_PCB"
+				(path "/26be704d-8085-4773-9060-7ddad222b79e"
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -7821,93 +8369,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x04_Pin")
-		(at 74.93 104.14 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "254e0043-b2f2-4ae6-acf3-6da7e96eb7be")
-		(property "Reference" "J12"
-			(at 76.2 101.5999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Conn_01x04_Pin"
-			(at 76.2 104.1399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 74.93 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 74.93 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 74.93 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "55089cbb-4fa4-424f-969e-9fb1b1f1f01b")
-		)
-		(pin "2"
-			(uuid "81573c1c-6d11-4930-bdd5-93c049896a12")
-		)
-		(pin "1"
-			(uuid "2ec7f766-8344-403a-b5b7-ccd6c160595c")
-		)
-		(pin "4"
-			(uuid "3bb4af9c-b034-432f-a71c-637880a81c3c")
-		)
-		(instances
-			(project "ROS2_final_project_PCB"
-				(path "/26be704d-8085-4773-9060-7ddad222b79e"
-					(reference "J12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 205.74 172.72 0)
 		(unit 1)
@@ -8471,84 +8932,6 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 199.39 106.68 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "48a51ff7-1fbe-473f-b256-dc584b0afdfe")
-		(property "Reference" "#PWR015"
-			(at 199.39 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 199.39 111.76 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 199.39 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 199.39 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 199.39 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c5af1cee-6303-43ea-8e8f-3ef5c8f7c3fb")
-		)
-		(instances
-			(project "ROS2_final_project_PCB"
-				(path "/26be704d-8085-4773-9060-7ddad222b79e"
-					(reference "#PWR015")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
 		(at 246.38 194.31 0)
 		(unit 1)
 		(body_style 1)
@@ -8708,7 +9091,8 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 205.74 99.06 180)
+		(at 69.85 41.91 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8718,7 +9102,7 @@
 		(dnp no)
 		(uuid "4e442cd1-4428-483e-b34e-42a05cea8ae2")
 		(property "Reference" "J5"
-			(at 205.105 106.68 0)
+			(at 69.215 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8728,7 +9112,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 207.772 103.886 0)
+			(at 71.882 37.084 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8738,7 +9122,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical"
-			(at 205.74 99.06 0)
+			(at 69.85 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8749,7 +9133,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 99.06 0)
+			(at 69.85 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8760,7 +9144,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 205.74 99.06 0)
+			(at 69.85 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9754,6 +10138,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDD")
+		(at 62.23 85.09 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "75bb12fe-ab1d-44bf-96c0-6baedb62ca41")
+		(property "Reference" "#PWR013"
+			(at 62.23 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDD"
+			(at 62.23 88.9 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 62.23 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 62.23 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
+			(at 62.23 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "39e3f90d-a7b3-40e6-b252-fd055888a5d9")
+		)
+		(instances
+			(project "ROS2_final_project_PCB"
+				(path "/26be704d-8085-4773-9060-7ddad222b79e"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 229.87 102.87 0)
 		(unit 1)
@@ -10392,6 +10854,84 @@
 			(project "ROS2_final_project_PCB"
 				(path "/26be704d-8085-4773-9060-7ddad222b79e"
 					(reference "#PWR043")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 59.69 34.29 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8f34439b-2dc9-44a6-bc9f-ac02d4853b8b")
+		(property "Reference" "#PWR048"
+			(at 59.69 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 59.69 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 59.69 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 59.69 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 59.69 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1d42dae5-e12c-474a-a590-7867ca141c05")
+		)
+		(instances
+			(project "ROS2_final_project_PCB"
+				(path "/26be704d-8085-4773-9060-7ddad222b79e"
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -11805,6 +12345,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 33.02 68.58 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bd4c8b8d-f14a-46b6-b954-50ed18abbd36")
+		(property "Reference" "#PWR044"
+			(at 33.02 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 33.02 63.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 33.02 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 33.02 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e5ee3eaa-c56b-43d8-8ffa-0a285ada72e3")
+		)
+		(instances
+			(project "ROS2_final_project_PCB"
+				(path "/26be704d-8085-4773-9060-7ddad222b79e"
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDD")
 		(at 55.88 149.86 0)
 		(unit 1)
@@ -11983,6 +12601,84 @@
 	)
 	(symbol
 		(lib_id "power:GNDD")
+		(at 33.02 83.82 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c5532c6f-c601-4e13-b623-0eb689b22a71")
+		(property "Reference" "#PWR045"
+			(at 33.02 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDD"
+			(at 33.02 87.63 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 33.02 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
+			(at 33.02 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "df1d334f-466b-4edf-bb29-e26247c5bc83")
+		)
+		(instances
+			(project "ROS2_final_project_PCB"
+				(path "/26be704d-8085-4773-9060-7ddad222b79e"
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDD")
 		(at 269.24 107.95 0)
 		(unit 1)
 		(body_style 1)
@@ -12139,7 +12835,8 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 78.74 55.88 0)
+		(at 41.91 40.64 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12149,7 +12846,7 @@
 		(dnp no)
 		(uuid "d63c68b3-1baa-4e0f-bfdf-b0ba304997bf")
 		(property "Reference" "J1"
-			(at 77.47 58.4201 0)
+			(at 36.83 51.562 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12160,7 +12857,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 77.47 55.8801 0)
+			(at 35.306 48.768 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12171,7 +12868,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical"
-			(at 78.74 55.88 0)
+			(at 41.91 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12182,7 +12879,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 55.88 0)
+			(at 41.91 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12193,7 +12890,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 78.74 55.88 0)
+			(at 41.91 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12219,84 +12916,6 @@
 			(project "ROS2_final_project_PCB"
 				(path "/26be704d-8085-4773-9060-7ddad222b79e"
 					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GNDD")
-		(at 194.31 106.68 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d75883e0-d09e-438f-8a31-d1adc1e1b1dd")
-		(property "Reference" "#PWR014"
-			(at 194.31 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GNDD"
-			(at 194.31 110.49 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 194.31 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 194.31 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
-			(at 194.31 106.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5e07b7ac-62c7-45f0-a19f-06f92b920dd7")
-		)
-		(instances
-			(project "ROS2_final_project_PCB"
-				(path "/26be704d-8085-4773-9060-7ddad222b79e"
-					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -12704,8 +13323,8 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 78.74 38.1 0)
-		(mirror x)
+		(at 41.91 76.2 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12715,7 +13334,7 @@
 		(dnp no)
 		(uuid "e324be03-9255-42ba-8160-2dadba241a96")
 		(property "Reference" "J4"
-			(at 73.914 36.068 0)
+			(at 38.1 67.564 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12725,7 +13344,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 69.596 33.782 0)
+			(at 43.688 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12735,7 +13354,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical"
-			(at 78.74 38.1 0)
+			(at 41.91 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12746,7 +13365,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 38.1 0)
+			(at 41.91 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12757,7 +13376,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 78.74 38.1 0)
+			(at 41.91 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12783,6 +13402,84 @@
 			(project "ROS2_final_project_PCB"
 				(path "/26be704d-8085-4773-9060-7ddad222b79e"
 					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 62.23 69.85 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "edb26e72-1754-491b-8d64-fb6a2c3e8989")
+		(property "Reference" "#PWR012"
+			(at 62.23 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 62.23 64.77 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 62.23 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 62.23 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 62.23 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2f239e36-4ca1-40ee-b45c-4b99daea15e5")
+		)
+		(instances
+			(project "ROS2_final_project_PCB"
+				(path "/26be704d-8085-4773-9060-7ddad222b79e"
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -13106,8 +13803,8 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 57.15 63.5 0)
-		(mirror x)
+		(at 69.85 76.2 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13117,7 +13814,7 @@
 		(dnp no)
 		(uuid "fade51ca-c929-4599-b652-599cdb90ca97")
 		(property "Reference" "J2"
-			(at 57.785 71.12 0)
+			(at 67.056 68.326 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13127,7 +13824,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 54.356 67.818 0)
+			(at 72.644 70.612 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13137,7 +13834,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical"
-			(at 57.15 63.5 0)
+			(at 69.85 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13148,7 +13845,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 63.5 0)
+			(at 69.85 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13159,7 +13856,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 57.15 63.5 0)
+			(at 69.85 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
